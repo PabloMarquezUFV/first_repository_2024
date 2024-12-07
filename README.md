@@ -8,5 +8,4 @@ This is the repository for the activity 1.
 - Added the gitignore file to the repository.
 - Added the src folder with the C file inside.
 - Added the LICENSE file with my information updated.
-- Created a new branch named dev
-- Added a contributor file.
+- Created a new branch named dev.
