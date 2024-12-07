@@ -9,4 +9,3 @@ This is the repository for the activity 1.
 - Added the src folder with the C file inside.
 - Added the LICENSE file with my information updated.
 - Created a new branch named dev.
-- Added a Contributor file.
